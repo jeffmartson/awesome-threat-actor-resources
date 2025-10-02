@@ -31,6 +31,7 @@ A curated meta list of open-source threat actor profile databases, tracking grou
 | **360.net** | 54 APT profiles in Chinese | 54 | [🔗 apt.360.net](https://apt.360.net/aptlist) |
 | **Thales** | 49 actor groups in a graphical attack explorer. | 49 | [🔗 cds.thalesgroup.com](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) |
 | **Threat Actors using LLMs** | Community-curated list of LLM abuse by threat actors. | 44 | [🔗 GitHub](https://github.com/cybershujin/Threat-Actors-use-of-Artifical-Intelligence) |
+| **FortiGuard**| 38 threat actor groups | 38 | [🔗 fortiguard.com](https://www.fortiguard.com/threat-actor)|
 | **UA-CERT** | 37 entries via search and title extraction. | 37 | [🔗 cert.gov.ua](https://cert.gov.ua/search/UAC-) |
 | **Cyble** | 28 public threat actor profiles. | 28 | [🔗 cyble.com](https://cyble.com/threat-actor-profiles/) |
 | **BSI Germany** | List of actors targeting Germany. | 28 | [🔗 bsi.bund.de](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html) |
